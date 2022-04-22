@@ -8,97 +8,97 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Web
 build_property.RootNamespace = Web
-build_property.ProjectDir = c:\Users\PDH\Desktop\119001143-19CT113-NgoVanDuc\Web\
+build_property.ProjectDir = c:\Users\PDH\Desktop\kiemtra30Web\Web\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\PDH\Desktop\119001143-19CT113-NgoVanDuc\Web
+build_property.MSBuildProjectDirectory = c:\Users\PDH\Desktop\kiemtra30Web\Web
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/PDH/Desktop/119001143-19CT113-NgoVanDuc/Web/Pages/Category/Create.cshtml]
+[c:/Users/PDH/Desktop/kiemtra30Web/Web/Pages/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/PDH/Desktop/119001143-19CT113-NgoVanDuc/Web/Pages/Category/Delete.cshtml]
+[c:/Users/PDH/Desktop/kiemtra30Web/Web/Pages/Category/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/PDH/Desktop/119001143-19CT113-NgoVanDuc/Web/Pages/Category/Details.cshtml]
+[c:/Users/PDH/Desktop/kiemtra30Web/Web/Pages/Category/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/PDH/Desktop/119001143-19CT113-NgoVanDuc/Web/Pages/Category/Edit.cshtml]
+[c:/Users/PDH/Desktop/kiemtra30Web/Web/Pages/Category/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/PDH/Desktop/119001143-19CT113-NgoVanDuc/Web/Pages/Category/Index.cshtml]
+[c:/Users/PDH/Desktop/kiemtra30Web/Web/Pages/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/PDH/Desktop/119001143-19CT113-NgoVanDuc/Web/Pages/Comment/Create.cshtml]
+[c:/Users/PDH/Desktop/kiemtra30Web/Web/Pages/Comment/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tbWVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/PDH/Desktop/119001143-19CT113-NgoVanDuc/Web/Pages/Comment/Delete.cshtml]
+[c:/Users/PDH/Desktop/kiemtra30Web/Web/Pages/Comment/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tbWVudFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/PDH/Desktop/119001143-19CT113-NgoVanDuc/Web/Pages/Comment/Details.cshtml]
+[c:/Users/PDH/Desktop/kiemtra30Web/Web/Pages/Comment/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tbWVudFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/PDH/Desktop/119001143-19CT113-NgoVanDuc/Web/Pages/Comment/Edit.cshtml]
+[c:/Users/PDH/Desktop/kiemtra30Web/Web/Pages/Comment/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tbWVudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/PDH/Desktop/119001143-19CT113-NgoVanDuc/Web/Pages/Comment/Index.cshtml]
+[c:/Users/PDH/Desktop/kiemtra30Web/Web/Pages/Comment/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tbWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/PDH/Desktop/119001143-19CT113-NgoVanDuc/Web/Pages/Error.cshtml]
+[c:/Users/PDH/Desktop/kiemtra30Web/Web/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/PDH/Desktop/119001143-19CT113-NgoVanDuc/Web/Pages/Index.cshtml]
+[c:/Users/PDH/Desktop/kiemtra30Web/Web/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/PDH/Desktop/119001143-19CT113-NgoVanDuc/Web/Pages/News/Create.cshtml]
+[c:/Users/PDH/Desktop/kiemtra30Web/Web/Pages/News/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/PDH/Desktop/119001143-19CT113-NgoVanDuc/Web/Pages/News/Delete.cshtml]
+[c:/Users/PDH/Desktop/kiemtra30Web/Web/Pages/News/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/PDH/Desktop/119001143-19CT113-NgoVanDuc/Web/Pages/News/Details.cshtml]
+[c:/Users/PDH/Desktop/kiemtra30Web/Web/Pages/News/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/PDH/Desktop/119001143-19CT113-NgoVanDuc/Web/Pages/News/Edit.cshtml]
+[c:/Users/PDH/Desktop/kiemtra30Web/Web/Pages/News/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/PDH/Desktop/119001143-19CT113-NgoVanDuc/Web/Pages/News/Index.cshtml]
+[c:/Users/PDH/Desktop/kiemtra30Web/Web/Pages/News/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/PDH/Desktop/119001143-19CT113-NgoVanDuc/Web/Pages/Privacy.cshtml]
+[c:/Users/PDH/Desktop/kiemtra30Web/Web/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/PDH/Desktop/119001143-19CT113-NgoVanDuc/Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/PDH/Desktop/kiemtra30Web/Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/PDH/Desktop/119001143-19CT113-NgoVanDuc/Web/Pages/_ViewImports.cshtml]
+[c:/Users/PDH/Desktop/kiemtra30Web/Web/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/PDH/Desktop/119001143-19CT113-NgoVanDuc/Web/Pages/_ViewStart.cshtml]
+[c:/Users/PDH/Desktop/kiemtra30Web/Web/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/PDH/Desktop/119001143-19CT113-NgoVanDuc/Web/Pages/Shared/_Layout.cshtml]
+[c:/Users/PDH/Desktop/kiemtra30Web/Web/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-esyc55q667
